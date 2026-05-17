@@ -20,7 +20,7 @@ BOUNDS = [(-32.768, 32.768)] * DIM
 TOL = 1e-7
 MAX_ITER = 10000
 RUNS = 10
-PRINT_EVERY = 50  # ← nur jeden 50. Schritt ausgeben
+PRINT_EVERY = 50
 
 
 def run_de(seed):
